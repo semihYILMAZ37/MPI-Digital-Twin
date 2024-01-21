@@ -1,0 +1,5 @@
+mpi4py library is needed to run this program.
+It can be installed by: pip install mpi4py
+
+Example usage of the program:
+mpiexec -n 1 python master.py [input.txt] [output.txt]
